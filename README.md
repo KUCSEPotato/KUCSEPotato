@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I;m Korea University Student who want to be a expert on Cyber security.
 
 <!--
 **KUCSEPotato/KUCSEPotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
