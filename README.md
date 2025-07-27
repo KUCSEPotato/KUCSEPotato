@@ -3,7 +3,10 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Introduction </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> KUCSE 23 <\br></li>Main Major: Computer Science and Engineering <\br></li>Double Major: Mathematics</li>Interesting: Cyber Security</li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> KUCSE 23 
+    </li>Main Major: Computer Science and Engineering 
+    </li>Double Major: Mathematics
+    </li>Interesting: Cyber Security</li> </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
