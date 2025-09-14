@@ -34,12 +34,20 @@
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🧑‍💻 Contact me</h2>
-  <br>
-  <div align="center">
-    <a href="https://hits.seeyoufarm.com">
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKUCSEPotato%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
+  <p align="center">
+    <!-- 이메일/링크는 본인 것에 맞게 교체 -->
+    <a href="mailto:a23493307@gmail.com">
+      <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
     </a>
-  </div>
+    <a href="https://github.com/KUCSEPotato">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+
+  <!-- 방문자수 (hits 대체, 광고차단에도 잘 동작) -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=KUCSEPotato&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </p>
 </div>
 
 <div align="center"> 
