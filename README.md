@@ -16,6 +16,12 @@ My interests lie in Software Verification and Security, especially in building r
 
 ---
 
+## 📄 Curriculum Vitae
+
+[Download CV (PDF)](./CV_Jeongmin_Lee.pdf)
+
+---
+
 ## 🛠️ Tech Stacks
 
 <div align="center">
