@@ -18,8 +18,6 @@
   <li>Double Major: Mathematics</li>
   <li>Interests: Cyber Security</li>
 </ul>
-
-    </td>
   </tr>
 </table>
 
@@ -44,8 +42,6 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
-
-    </td>
   </tr>
 </table>
 
@@ -71,8 +67,6 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=KUCSEPotato&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
-    </td>
   </tr>
 </table>
 
@@ -97,6 +91,5 @@
   />
 </p>
 
-    </td>
   </tr>
 </table>
