@@ -59,8 +59,4 @@ Interests: Software Verification, Security
 
 ## 📈 Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=KUCSEPotato&theme=github-compact&hide_border=true" />
-
-</div>
+<img src="https://streak-stats.demolab.com?user=KUCSEPotato&theme=transparent&hide_border=true" />
