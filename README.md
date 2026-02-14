@@ -18,7 +18,9 @@ My interests lie in Software Verification and Security, especially in building r
 
 ## 📄 Curriculum Vitae
 
-[Download CV (PDF)](./CV_Jeongmin_Lee.pdf)
+<a href="./CV_Jeongmin_Lee.pdf">
+  <img src="https://img.shields.io/badge/CV-Download%20PDF-181717?style=for-the-badge" />
+</a>
 
 ---
 
