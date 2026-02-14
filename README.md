@@ -50,7 +50,7 @@ My interests lie in Software Verification and Security, especially in building r
 <a href="https://github.com/KUCSEPotato">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
+<br></br>
 <img src="https://komarev.com/ghpvc/?username=KUCSEPotato&label=Profile%20views&color=0e75b6&style=flat" />
 
 </div>
