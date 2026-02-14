@@ -53,6 +53,20 @@ Interests: Software Verification, Security
 
 ## 🏅 Stats
 
+<div align="center">
+
+<img height="170" src="https://streak-stats.demolab.com?user=KUCSEPotato&theme=transparent&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KUCSEPotato&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent" />
+
+</div>
+
+<br/>
+
 ## 📈 Activity
 
-<img src="https://streak-stats.demolab.com?user=KUCSEPotato&theme=transparent&hide_border=true" />
+<div align="center">
+
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=KUCSEPotato&theme=github-compact&hide_border=true" />
+
+</div>
