@@ -50,16 +50,9 @@
   </p>
 </div>
 
-<div align="center"> 
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🏅 Stats</h2>
-  <div align="center">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=KUCSEPotato&custom_title=KUCSEPotato's%20GitHub%20Stats&show_icons=true&hide_border=true&theme=transparent"
-      alt="GitHub Stats"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUCSEPotato&layout=compact&hide_border=true&theme=transparent"
-      alt="Top Languages"
-    />
-  </div>
-</div>
+## 🏅 Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KUCSEPotato&show_icons=true&hide_border=true&theme=transparent" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KUCSEPotato&layout=compact&hide_border=true&theme=transparent" />
+</p>
