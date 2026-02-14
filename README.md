@@ -50,9 +50,16 @@
   </p>
 </div>
 
-## 🏅 Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KUCSEPotato&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KUCSEPotato&layout=compact&hide_border=true&theme=transparent" />
-</p>
+<div align="center"> 
+  <h2>🏅 Stats</h2>
+  <div align="center">
+    <img
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KUCSEPotato&amp;custom_title=KUCSEPotato's%20GitHub%20Stats&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent"
+      alt="GitHub Stats"
+    />
+    <img
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KUCSEPotato&amp;layout=compact&amp;hide_border=true&amp;theme=transparent"
+      alt="Top Languages"
+    />
+  </div>
+</div>
