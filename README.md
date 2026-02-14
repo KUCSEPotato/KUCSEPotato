@@ -8,10 +8,11 @@
 
 <div align="center">
 
-KUCSE 23  
+Hello! My name is Jeongmin Lee.  
+Korea University (Seoul) — KUCSE 23  
 Main Major: Computer Science and Engineering  
 Double Major: Mathematics  
-Interests: Cyber Security  
+Interests: Software Verification, Security  
 
 </div>
 
@@ -22,18 +23,10 @@ Interests: Cyber Security
 <div align="center">
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
 
 </div>
 
@@ -60,10 +53,6 @@ Interests: Cyber Security
 
 ## 🏅 Stats
 
-<div align="center">
+## 📈 Activity
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KUCSEPotato&amp;custom_title=KUCSEPotato's%20GitHub%20Stats&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent" />
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KUCSEPotato&amp;layout=compact&amp;hide_border=true&amp;theme=transparent" />
-
-</div>
+<img src="https://streak-stats.demolab.com?user=KUCSEPotato&theme=transparent&hide_border=true" />
